@@ -1,2 +1,8 @@
-Git is a version control system.
-Git is free software.
+
+
+这是一个学习python的仓库
+主要用于个人练习和跟踪记录
+
+
+
+

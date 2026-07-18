@@ -1,0 +1,11 @@
+
+git init        创建本地仓库   执行命令时要在特定文件夹中打开
+
+
+mkdir learngit    创建一个名为learngit的新文件夹   mkdir 是 make directory 的缩写。
+cd learngit       进入刚刚创建的learngit文件夹     cd 是 change directory 的缩写。
+pwd               查看当前所在的完整路径。         pwd 是 print working directory 的缩写。
+
+
+git add readme.txt                                    用命令git add告诉Git，把文件添加到仓库
+git commit -m "wrote a readme file"                   用命令git commit告诉Git，把文件提交到仓库
